@@ -23,7 +23,7 @@ The **Tic Tac Toe Game** is a simple web application that allows two players to 
 
 ### Player Win
 
-![Player Win](screenshots/creenshot2.png)
+![Player Win](screenshots/Screenshot2.png)
 
 ## Installation
 
